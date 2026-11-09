@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/kishan-hero.svg" alt="Kishan Salian — Aspiring Data Analyst | SQL, Python, Pandas" width="100%"/>
+<img src="assets/kishan-hero.svg" alt="Kishan D Salian — Aspiring Data Analyst | SQL, Python, Pandas" width="100%"/>
 
 <p>
   <a href="https://www.linkedin.com/in/kishan-salian/"><img src="https://img.shields.io/badge/LinkedIn-Kishan%20Salian-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"/></a>
