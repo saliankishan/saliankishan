@@ -1,6 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="kh-title kh-desc">
   <title id="kh-title">Kishan Salian</title>
-  <desc id="kh-desc">Aspiring Data Analyst | SQL, Python and Pandas | MCA student at MIT, MAHE</desc>
+  <desc id="kh-desc">Aspiring Data Analyst. SQL, Python and Pandas. MCA student at MIT, Manipal.</desc>
+  <style>
+    /* Motion-only elements are hidden when the viewer prefers reduced motion;
+       the static layers below remain as a complete, polished banner. */
+    @media (prefers-reduced-motion: reduce) { .kh-move { display: none; } }
+  </style>
   <defs>
     <linearGradient id="kh-bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#10070C"/>
@@ -21,50 +26,61 @@
       <stop offset="0" stop-color="#C77B9B" stop-opacity="0.35"/>
       <stop offset="1" stop-color="#C77B9B" stop-opacity="0"/>
     </radialGradient>
+    <radialGradient id="kh-fade" cx="0.5" cy="0.5" r="0.75">
+      <stop offset="0.35" stop-color="#fff" stop-opacity="1"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.15"/>
+    </radialGradient>
+    <mask id="kh-gridmask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="320">
+      <rect width="1200" height="320" fill="url(#kh-fade)"/>
+    </mask>
     <pattern id="kh-grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.07" stroke-width="1"/>
+      <path d="M40 0H0V40" fill="none" stroke="#E5B5C7" stroke-opacity="0.09" stroke-width="1"/>
     </pattern>
     <filter id="kh-blur" x="-20%" y="-200%" width="140%" height="500%">
       <feGaussianBlur stdDeviation="4"/>
     </filter>
+    <clipPath id="kh-clip"><rect width="1200" height="320" rx="16"/></clipPath>
   </defs>
 
-  <!-- Static base (fallback when motion is unsupported) -->
-  <rect width="1200" height="320" rx="16" fill="url(#kh-bg)"/>
-  <rect width="1200" height="320" rx="16" fill="url(#kh-grid)"/>
+  <g clip-path="url(#kh-clip)">
+    <!-- Static layers (always visible) -->
+    <rect width="1200" height="320" fill="url(#kh-bg)"/>
+    <rect width="1200" height="320" fill="url(#kh-grid)" mask="url(#kh-gridmask)"/>
+    <circle cx="760" cy="170" r="240" fill="url(#kh-light)" opacity="0.55"/>
 
-  <!-- Moving light -->
-  <circle cx="200" cy="80" r="260" fill="url(#kh-light)">
-    <animate attributeName="cx" values="200;1000;200" dur="18s" repeatCount="indefinite"/>
-    <animate attributeName="cy" values="80;240;80" dur="18s" repeatCount="indefinite"/>
-  </circle>
+    <g fill="none" stroke="#C77B9B" stroke-opacity="0.35" stroke-width="1">
+      <circle cx="1020" cy="160" r="110"/>
+      <circle cx="1020" cy="160" r="70" stroke-dasharray="3 7"/>
+      <ellipse cx="1020" cy="160" rx="140" ry="44" transform="rotate(-24 1020 160)"/>
+    </g>
+    <circle cx="1020" cy="160" r="6" fill="#701A3D" stroke="#E5B5C7" stroke-opacity="0.6"/>
 
-  <!-- Orbital geometry -->
-  <g fill="none" stroke="#C77B9B" stroke-opacity="0.35" stroke-width="1">
-    <circle cx="1020" cy="160" r="110"/>
-    <circle cx="1020" cy="160" r="70" stroke-dasharray="3 7"/>
-    <ellipse cx="1020" cy="160" rx="140" ry="44" transform="rotate(-24 1020 160)"/>
+    <path d="M60 300 L180 282 L300 290 L430 264 L560 276 L690 248 L820 260 L950 238 L1140 246"
+          fill="none" stroke="url(#kh-path)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+
+    <rect x="62" y="206" width="300" height="2" rx="1" fill="url(#kh-glow)"/>
+
+    <text x="60" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#F8F0F3" letter-spacing="1">Kishan Salian</text>
+    <text x="62" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#E5B5C7" letter-spacing="3">ASPIRING DATA ANALYST</text>
+    <text x="62" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#C77B9B" letter-spacing="1.5">SQL  ·  Python  ·  Pandas  ·  MCA @ MIT, Manipal</text>
+
+    <!-- Motion layers (SMIL; hidden under reduced motion) -->
+    <g class="kh-move">
+      <circle cx="200" cy="80" r="260" fill="url(#kh-light)">
+        <animate attributeName="cx" values="200;1000;200" dur="18s" repeatCount="indefinite"/>
+        <animate attributeName="cy" values="80;240;80" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <path d="M60 300 L180 282 L300 290 L430 264 L560 276 L690 248 L820 260 L950 238 L1140 246"
+            fill="none" stroke="#E5B5C7" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+            stroke-dasharray="1400" stroke-dashoffset="1400">
+        <animate attributeName="stroke-dashoffset" values="1400;0;0;1400" keyTimes="0;0.55;0.85;1" dur="8s" repeatCount="indefinite"/>
+      </path>
+      <circle r="5" fill="#E5B5C7">
+        <animateMotion dur="9s" repeatCount="indefinite" path="M1130 160 A110 110 0 1 1 910 160 A110 110 0 1 1 1130 160"/>
+      </circle>
+      <rect x="62" y="206" width="300" height="3" rx="1.5" fill="url(#kh-glow)" filter="url(#kh-blur)">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
   </g>
-  <circle r="5" fill="#E5B5C7">
-    <animateMotion dur="9s" repeatCount="indefinite" path="M1130 160 A110 110 0 1 1 1130 160.01"/>
-  </circle>
-  <circle cx="1020" cy="160" r="6" fill="#701A3D" stroke="#E5B5C7" stroke-opacity="0.6"/>
-
-  <!-- Drawn path (data line motif) -->
-  <path d="M60 268 L180 230 L300 246 L430 190 L560 212 L690 150 L820 172 L950 110 L1140 128"
-        fill="none" stroke="url(#kh-path)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
-        stroke-dasharray="1400" stroke-dashoffset="0" opacity="0.85">
-    <animate attributeName="stroke-dashoffset" values="1400;0;0" keyTimes="0;0.6;1" dur="6s" repeatCount="indefinite"/>
-  </path>
-
-  <!-- Text -->
-  <text x="60" y="118" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#F8F0F3" letter-spacing="1">Kishan Salian</text>
-  <text x="62" y="160" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" fill="#E5B5C7" letter-spacing="3">ASPIRING DATA ANALYST</text>
-  <text x="62" y="192" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#C77B9B" letter-spacing="1.5">SQL  ·  Python  ·  Pandas  ·  MCA @ MIT, MAHE</text>
-
-  <!-- Glowing underline -->
-  <rect x="62" y="206" width="300" height="3" rx="1.5" fill="url(#kh-glow)" filter="url(#kh-blur)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="4s" repeatCount="indefinite"/>
-  </rect>
-  <rect x="62" y="206" width="300" height="2" rx="1" fill="url(#kh-glow)"/>
 </svg>
