@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="kf-title">
+  <title id="kf-title">Learning. Building. Analyzing.</title>
+  <defs>
+    <linearGradient id="kf-bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="0.5" stop-color="#451126"/>
+      <stop offset="1" stop-color="#10070C"/>
+    </linearGradient>
+    <linearGradient id="kf-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#701A3D" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="120" rx="16" fill="url(#kf-bg)"/>
+  <text x="600" y="62" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-style="italic" fill="#F8F0F3" letter-spacing="2">Learning. Building. Analyzing.</text>
+  <rect x="400" y="82" width="400" height="2" rx="1" fill="url(#kf-line)">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="4s" repeatCount="indefinite"/>
+  </rect>
+</svg>
