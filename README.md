@@ -14,20 +14,11 @@
 
 ## 01 / About me
 
-<table width="100%">
-<tr>
-<td width="65%" valign="middle">
+<img src="https://raw.githubusercontent.com/saliankishan/saliankishan/main/assets/about.svg?v=3" width="100%" alt="01 — About Kishan: MCA student with a data-first mindset"/>
 
-<img src="./assets/about.svg" width="100%" alt="01 — Kishan: MCA student with a data-first mindset"/>
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="./assets/profile.jpg" width="100%" alt="Portrait of Kishan Salian"/>
-
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/saliankishan/saliankishan/main/assets/profile.jpg?v=3" width="280" alt="Portrait of Kishan Salian"/>
+</div>
 
 ## 02 / The learning journey
 
