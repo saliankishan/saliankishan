@@ -8,24 +8,22 @@
   <a href="https://github.com/saliankishan"><img src="https://img.shields.io/badge/GitHub-Follow-24121B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-**MCA @ Manipal Institute of Technology, MAHE**  
-*Interested in data analytics, software development and the systems behind data.*
+**MCA Student · MIT, Manipal · Aspiring Data Analyst**
 
 </div>
 
 ---
 
-## About
+## About Me
 
-<img align="right" src="assets/about.svg" width="44%" alt="About Kishan — MCA student with a data-first mindset"/>
+Hi, I'm **Kishan** — an MCA student at Manipal Institute of Technology, MAHE.
 
-I'm **Kishan D Salian**, an MCA student at **Manipal Institute of Technology (MIT), MAHE**. I enjoy turning ideas into practical software and using data to understand problems more clearly.
+I'm interested in working with data, solving problems through code, and building useful applications. I primarily work with **Python, SQL and Pandas**, while also exploring web development and machine learning.
 
-My current learning focus is **Python, SQL, Pandas, data analysis and statistics**. I'm working towards a career in **Data Analytics**, with a longer-term goal of growing into **Data Engineering**.
-
-I value strong fundamentals, clear problem-solving and projects that demonstrate what I can actually build.
-
-<br clear="right"/>
+- 🎓 Pursuing MCA at MIT, Manipal
+- 📊 Interested in Data Analytics and Predictive Analytics
+- 🛠️ Building projects that combine software development and data
+- 🎯 Long-term goal: grow into Data Engineering
 
 ## Learning path
 
@@ -119,7 +117,6 @@ A college food-festival website project.
 - Using Python and Pandas for data cleaning, exploration and analysis.
 - Building foundations in statistics and predictive modelling.
 - Understanding databases, data pipelines and the principles of Data Engineering.
-- Developing and documenting projects with clear, maintainable code.
 
 ## GitHub activity
 
