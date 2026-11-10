@@ -46,7 +46,7 @@
   <circle cx="1000" cy="183" r="145" fill="#C77B9B" opacity=".16" filter="url(#portrait-shadow)"/>
   <circle cx="1000" cy="180" r="132" fill="#24121B" stroke="#C77B9B" stroke-opacity=".65" stroke-width="2"/>
   <circle cx="1000" cy="180" r="121" fill="none" stroke="#E5B5C7" stroke-opacity=".24" stroke-dasharray="3 7"/>
-  <image href="kishan-portrait.png" x="865" y="45" width="270" height="270" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)"/>
+  <image href="kishan-portrait.jpg" x="865" y="45" width="270" height="270" preserveAspectRatio="xMidYMid slice" clip-path="url(#portrait-clip)"/>
   <circle cx="1000" cy="180" r="128" fill="none" stroke="#C77B9B" stroke-opacity=".6" stroke-width="1.5"/>
   <text class="mono" x="1000" y="343" text-anchor="middle" font-size="10" letter-spacing="2.5" fill="#C77B9B">LEARN  ·  BUILD  ·  ANALYSE</text>
 </g>
