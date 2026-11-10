@@ -1,60 +1,62 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Kishan D Salian — Data, software and curiosity"/>
+<img src="assets/kishan-hero.svg" width="100%" alt="Kishan D Salian — aspiring data analyst, MCA student at MIT Manipal"/>
 
-<a href="https://github.com/saliankishan"><img src="https://img.shields.io/badge/GitHub-saliankishan-7A2948?style=for-the-badge&labelColor=160D12&logo=github&logoColor=F8EDF1" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/kishan-salian-145a9938b"><img src="https://img.shields.io/badge/LinkedIn-Connect-7A2948?style=for-the-badge&labelColor=160D12&logo=linkedin&logoColor=F8EDF1" alt="LinkedIn"/></a>
-<a href="mailto:saliankishan727@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-7A2948?style=for-the-badge&labelColor=160D12&logo=gmail&logoColor=F8EDF1" alt="Email"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/kishan-salian-145a9938b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C77B9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:saliankishan727@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-451126?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/saliankishan"><img src="https://img.shields.io/badge/GitHub-Follow-24121B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
-<br/>
-<sub>MANIPAL INSTITUTE OF TECHNOLOGY · MCA · DATA ANALYTICS</sub>
+**MCA @ Manipal Institute of Technology, MAHE**  
+*Interested in data analytics, software development and the systems behind data.*
 
 </div>
 
 ---
 
-## 01 / About
+## About
 
-<div align="center">
-  <img src="assets/kishan-portrait.png" width="285" alt="Kishan Salian — illustrated portrait"/>
-</div>
+<img align="right" src="assets/about.svg" width="44%" alt="About Kishan — MCA student with a data-first mindset"/>
 
-I'm **Kishan D Salian**, an MCA student at **Manipal Institute of Technology, MAHE**. I enjoy working at the intersection of software development, data and practical problem-solving.
+I'm **Kishan D Salian**, an MCA student at **Manipal Institute of Technology (MIT), MAHE**. I enjoy turning ideas into practical software and using data to understand problems more clearly.
 
-My current focus is strengthening my foundations in **Python, SQL and data analytics**—from exploring datasets and extracting insights to understanding how data systems are built. My longer-term direction is data engineering.
+My current learning focus is **Python, SQL, Pandas, data analysis and statistics**. I'm working towards a career in **Data Analytics**, with a longer-term goal of growing into **Data Engineering**.
 
-> Learn deeply. Build thoughtfully. Let the work speak.
+I value strong fundamentals, clear problem-solving and projects that demonstrate what I can actually build.
 
-## 02 / Learning journey
+<br clear="right"/>
 
-<img src="assets/journey.svg" width="100%" alt="Journey from BCA to MCA, aspiring Data Analyst and long-term Data Engineer"/>
+## Learning path
 
-## 03 / Toolkit
+<img src="assets/journey.svg" width="100%" alt="Learning path: BCA, MCA, Data Analyst and Data Engineer"/>
+
+## Skills & tools
 
 <img src="assets/toolkit.svg" width="100%" alt="Technology toolkit: Python, SQL, Pandas, Excel, C++, JavaScript, HTML, CSS, PHP, Flask, SQLite, OpenCV, Git and GitHub"/>
 
-## 04 / Selected work
+## Selected projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Air Canvas
-A real-time virtual drawing application controlled through hand gestures. Includes colour selection, erasing, saving drawings and a gallery for managing saved artwork.
+A hand-gesture-controlled drawing application with colour selection, erasing, saving drawings and a gallery for saved artwork.
 
-**Stack:** Python · OpenCV · MediaPipe · NumPy · SQLite
+**Python · OpenCV · MediaPipe · NumPy · SQLite**
 
-[Explore repository →](https://github.com/saliankishan/Air-Canvas)
+[View project ↗](https://github.com/saliankishan/Air-Canvas)
 
 </td>
 <td width="50%" valign="top">
 
 ### Weather Dashboard
-A Flask-based weather application with current conditions, a five-day forecast, map, city comparison and searchable history.
+A Flask weather application featuring current conditions, a five-day forecast, a map, city comparison and searchable history.
 
-**Stack:** Python · Flask · SQLite · OpenWeather API
+**Python · Flask · SQLite · OpenWeather API**
 
-[Explore repository →](https://github.com/saliankishan/Weather-Dashboard)
+[View project ↗](https://github.com/saliankishan/Weather-Dashboard)
 
 </td>
 </tr>
@@ -62,97 +64,72 @@ A Flask-based weather application with current conditions, a five-day forecast, 
 <td width="50%" valign="top">
 
 ### College Helpdesk Chatbot
-A college query assistant with an admin panel to manage intents and responses, login functionality and analytics.
+A college query assistant with login functionality, an admin panel for managing intents and responses, and basic analytics.
 
-**Stack:** Python · Flask · SQLite · NLTK · Scikit-learn · HTML · CSS · JavaScript
+**Python · Flask · SQLite · NLTK · Scikit-learn · JavaScript**
 
-[Explore repository →](https://github.com/saliankishan/college-chatbot)
+[View project ↗](https://github.com/saliankishan/college-chatbot)
 
 </td>
 <td width="50%" valign="top">
 
 ### Hunt the Wumpus
-A browser-based Wumpus World adventure. Explore caves, interpret clues, avoid hazards, collect gold and hunt the Wumpus.
+A browser-based Wumpus World game. Explore caves, interpret clues, avoid hazards, collect gold and hunt the Wumpus.
 
-**Stack:** React · TypeScript · Vite · Tailwind CSS
+**React · TypeScript · Vite · Tailwind CSS**
 
-[Play the game →](https://saliankishan.github.io/wumpus-world-game/) · [Source code →](https://github.com/saliankishan/wumpus-world-game)
+[Play game ↗](https://saliankishan.github.io/wumpus-world-game/) · [Source ↗](https://github.com/saliankishan/wumpus-world-game)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### Retirement Fund Estimation
+An ongoing MCA research project exploring retirement fund estimation using predictive analytics and a synthetic financial dataset.
+
+**Python · Data Analysis · Predictive Analytics**
+
+</td>
 <td width="50%" valign="top">
 
 ### Vijaya Food Fest
 A college food-festival website project.
 
-[Explore repository →](https://github.com/saliankishan/Vijaya-Food-Fest)
-
-</td>
-<td width="50%" valign="top">
-
-### Retirement Fund Estimation
-Current research project exploring retirement fund estimation using predictive analytics and a synthetic financial dataset.
-
-**Focus:** Python · Data Analysis · Predictive Analytics
+[View project ↗](https://github.com/saliankishan/Vijaya-Food-Fest)
 
 </td>
 </tr>
 </table>
 
-## 05 / Recognition & community
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🥇
-**1st Prize**
-
-Cyber Quest
-
-NITTE
-
-</td>
-<td align="center" width="33%">
-
-### 🥈
-**2nd Prize**
-
-Debugging Competition
-
-Mahaveer College
-
-</td>
-<td align="center" width="33%">
-
-### 🤝
-**2 years**
-
-NSS Volunteer
-
-Community service
-
-</td>
-</tr>
-</table>
-
-## 06 / What I'm working on
-
-- Improving SQL fluency, query design and relational database concepts.
-- Using Python and Pandas for data cleaning, analysis and exploration.
-- Building a sound foundation in statistics and predictive analytics.
-- Learning the concepts and tooling that underpin reliable data pipelines.
-
-## 07 / GitHub activity
+## Recognition & community
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saliankishan&show_icons=true&hide_border=true&bg_color=160D12&title_color=E9AFC1&icon_color=C77B91&text_color=F5E9ED&rank_icon=github" height="165" alt="GitHub statistics"/>
+| 🥇 First Prize | 🥈 Second Prize | 🤝 Community |
+|:---:|:---:|:---:|
+| Cyber Quest | Debugging Competition | NSS Volunteer |
+| NITTE | Mahaveer College | 2 years |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliankishan&layout=compact&hide_border=true&bg_color=160D12&title_color=E9AFC1&text_color=F5E9ED" height="165" alt="Most used programming languages"/>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=saliankishan&theme=transparent&hide_border=true&background=160D12&ring=C77B91&fire=E9AFC1&currStreakLabel=E9AFC1&sideLabels=D9C5CC&dates=A98D98&currStreakNum=FFF5F8&sideNums=FFF5F8" width="90%" alt="GitHub contribution streak"/>
+## Currently focused on
+
+- Writing better SQL queries and strengthening relational database concepts.
+- Using Python and Pandas for data cleaning, exploration and analysis.
+- Building foundations in statistics and predictive modelling.
+- Understanding databases, data pipelines and the principles of Data Engineering.
+- Developing and documenting projects with clear, maintainable code.
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=saliankishan&show_icons=true&hide_border=true&bg_color=160D12&title_color=E9AFC1&icon_color=C77B91&text_color=F5E9ED&rank_icon=github" alt="GitHub statistics"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliankishan&layout=compact&hide_border=true&bg_color=160D12&title_color=E9AFC1&text_color=F5E9ED" alt="Most used languages"/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=saliankishan&theme=transparent&hide_border=true&background=160D12&ring=C77B91&fire=E9AFC1&currStreakLabel=E9AFC1&sideLabels=D9C5CC&dates=A98D98&currStreakNum=FFF5F8&sideNums=FFF5F8" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -160,6 +137,6 @@ Community service
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt="Thanks for visiting — keep learning, keep building, stay curious"/>
+<img src="assets/kishan-footer.svg" width="100%" alt="Learning. Building. Analyzing."/>
 
 </div>
