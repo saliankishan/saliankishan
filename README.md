@@ -115,9 +115,9 @@ A college food-festival website project.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=saliankishan&show_icons=true&hide_border=true&bg_color=160D12&title_color=E9AFC1&icon_color=C77B91&text_color=F5E9ED&rank_icon=github" alt="GitHub statistics"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=saliankishan&show_icons=true&hide_border=true&bg_color=160D12&title_color=E9AFC1&icon_color=C77B91&text_color=F5E9ED&rank_icon=github" alt="GitHub statistics"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliankishan&layout=compact&hide_border=true&bg_color=160D12&title_color=E9AFC1&text_color=F5E9ED" alt="Most used languages"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saliankishan&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=160D12&title_color=E9AFC1&text_color=F5E9ED" alt="Most used languages"/>
 
 <img width="90%" src="https://streak-stats.demolab.com?user=saliankishan&theme=transparent&hide_border=true&background=160D12&ring=C77B91&fire=E9AFC1&currStreakLabel=E9AFC1&sideLabels=D9C5CC&dates=A98D98&currStreakNum=FFF5F8&sideNums=FFF5F8" alt="GitHub contribution streak"/>
 
