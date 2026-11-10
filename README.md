@@ -1,26 +1,31 @@
 <div align="center">
 
-<img src="assets/hero.svg" width="100%" alt="Kishan D Salian — Building with curiosity and data"/>
+<img src="assets/hero.svg" width="100%" alt="Kishan D Salian — Data, software and curiosity"/>
+
+<a href="https://github.com/saliankishan"><img src="https://img.shields.io/badge/GitHub-saliankishan-7A2948?style=for-the-badge&labelColor=160D12&logo=github&logoColor=F8EDF1" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/kishan-salian-145a9938b"><img src="https://img.shields.io/badge/LinkedIn-Connect-7A2948?style=for-the-badge&labelColor=160D12&logo=linkedin&logoColor=F8EDF1" alt="LinkedIn"/></a>
+<a href="mailto:saliankishan727@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-7A2948?style=for-the-badge&labelColor=160D12&logo=gmail&logoColor=F8EDF1" alt="Email"/></a>
 
 <br/>
-
-<a href="https://github.com/saliankishan"><img src="https://img.shields.io/badge/GitHub-saliankishan-701A3D?style=for-the-badge&labelColor=190B12&logo=github&logoColor=F5E9ED" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/kishan-salian-145a9938b"><img src="https://img.shields.io/badge/LinkedIn-Connect-701A3D?style=for-the-badge&labelColor=190B12&logo=linkedin&logoColor=F5E9ED" alt="LinkedIn"/></a>
-<a href="mailto:saliankishan727@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-701A3D?style=for-the-badge&labelColor=190B12&logo=gmail&logoColor=F5E9ED" alt="Email"/></a>
+<sub>MANIPAL INSTITUTE OF TECHNOLOGY · MCA · DATA ANALYTICS</sub>
 
 </div>
 
 ---
 
-## 01 / About me
-
-<img src="https://raw.githubusercontent.com/saliankishan/saliankishan/main/assets/about.svg?v=3" width="100%" alt="01 — About Kishan: MCA student with a data-first mindset"/>
+## 01 / About
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saliankishan/saliankishan/main/assets/profile.jpg?v=3" width="280" alt="Portrait of Kishan Salian"/>
+  <img src="assets/kishan-portrait.png" width="285" alt="Kishan Salian — illustrated portrait"/>
 </div>
 
-## 02 / The learning journey
+I'm **Kishan D Salian**, an MCA student at **Manipal Institute of Technology, MAHE**. I enjoy working at the intersection of software development, data and practical problem-solving.
+
+My current focus is strengthening my foundations in **Python, SQL and data analytics**—from exploring datasets and extracting insights to understanding how data systems are built. My longer-term direction is data engineering.
+
+> Learn deeply. Build thoughtfully. Let the work speak.
+
+## 02 / Learning journey
 
 <img src="assets/journey.svg" width="100%" alt="Journey from BCA to MCA, aspiring Data Analyst and long-term Data Engineer"/>
 
@@ -132,13 +137,12 @@ Community service
 </tr>
 </table>
 
-## 06 / Currently exploring
+## 06 / What I'm working on
 
-- Advanced SQL, querying and database concepts
-- Python for data analysis with Pandas
-- Exploratory data analysis and visualization
-- Statistics and predictive analytics
-- Foundations for a future in data engineering
+- Improving SQL fluency, query design and relational database concepts.
+- Using Python and Pandas for data cleaning, analysis and exploration.
+- Building a sound foundation in statistics and predictive analytics.
+- Learning the concepts and tooling that underpin reliable data pipelines.
 
 ## 07 / GitHub activity
 
