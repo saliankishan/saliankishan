@@ -1,19 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
 <title id="title">01 — About Kishan</title>
-<desc id="desc">A bold burgundy profile panel introducing Kishan, an MCA student focused on data analytics and practical software.</desc>
+<desc id="desc">A large burgundy introduction panel for Kishan, an MCA student interested in data analytics and software development.</desc>
 <defs>
-  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#160D12"/><stop offset="1" stop-color="#321321"/></linearGradient>
-  <linearGradient id="num" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E9AFC1"/><stop offset="1" stop-color="#8B3657"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#160D12"/><stop offset="1" stop-color="#48172D"/></linearGradient>
+  <linearGradient id="num" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F2C1D0"/><stop offset="1" stop-color="#9B4567"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E9AFC1"/><stop offset="1" stop-color="#70304A"/></linearGradient>
 </defs>
-<rect width="1200" height="300" rx="24" fill="url(#panel)" stroke="#70304A" stroke-width="2"/>
-<text x="42" y="220" font-family="Segoe UI,Arial,sans-serif" font-size="178" font-weight="800" letter-spacing="-12" fill="url(#num)" opacity=".95">01</text>
-<path d="M225 48V252" stroke="#8B3657" stroke-width="3"/>
+<rect x="3" y="3" width="1194" height="554" rx="30" fill="url(#panel)" stroke="#70304A" stroke-width="3"/>
+<text x="58" y="395" font-family="Segoe UI,Arial,sans-serif" font-size="330" font-weight="800" letter-spacing="-24" fill="url(#num)">01</text>
+<path d="M390 65V495" stroke="url(#line)" stroke-width="5"/>
 <g font-family="Segoe UI,Arial,sans-serif">
-  <text x="270" y="66" fill="#E9AFC1" font-size="17" font-weight="700" letter-spacing="5">THE PERSON BEHIND THE CODE</text>
-  <text x="270" y="119" fill="#FFF5F8" font-size="37" font-weight="700">A learner with a data-first mindset.</text>
-  <text x="270" y="166" fill="#D9C5CC" font-size="21">MCA student at Manipal Institute of Technology, MAHE.</text>
-  <text x="270" y="201" fill="#D9C5CC" font-size="19">Turning raw information into useful insights and building</text>
-  <text x="270" y="230" fill="#D9C5CC" font-size="19">practical software, one project at a time.</text>
-  <text x="270" y="270" fill="#E9AFC1" font-size="17" font-weight="600" letter-spacing="1">FOCUS  /  SQL · PYTHON · PANDAS · PREDICTIVE ANALYTICS</text>
+  <text x="455" y="105" fill="#E9AFC1" font-size="24" font-weight="700" letter-spacing="7">THE PERSON BEHIND THE CODE</text>
+  <text x="455" y="190" fill="#FFF5F8" font-size="49" font-weight="700">A learner with a data-first mindset.</text>
+  <text x="455" y="260" fill="#F0DDE4" font-size="30">MCA student at Manipal Institute of Technology, MAHE.</text>
+  <text x="455" y="325" fill="#D9C5CC" font-size="27">Turning raw information into useful insights and</text>
+  <text x="455" y="370" fill="#D9C5CC" font-size="27">building practical software, one project at a time.</text>
+  <text x="455" y="455" fill="#E9AFC1" font-size="22" font-weight="700" letter-spacing="2">FOCUS  /  SQL · PYTHON · PANDAS</text>
+  <text x="455" y="495" fill="#E9AFC1" font-size="22" font-weight="700" letter-spacing="2">PREDICTIVE ANALYTICS · DATA ENGINEERING</text>
 </g>
 </svg>
