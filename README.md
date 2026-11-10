@@ -12,16 +12,18 @@
 
 ---
 
+## 01 / About me
+
 <table>
 <tr>
-<td width="66%" valign="middle">
+<td width="68%" valign="middle">
 
 <img src="assets/about.svg" width="100%" alt="About Kishan — MCA student focused on data, analytics and practical software"/>
 
 </td>
-<td width="34%" align="center" valign="middle">
+<td width="32%" align="center" valign="middle">
 
-<img src="assets/profile.jpg" width="220" alt="Kishan Salian portrait"/>
+<img src="https://raw.githubusercontent.com/saliankishan/saliankishan/main/assets/profile.jpg" width="280" alt="Portrait of Kishan Salian"/>
 
 </td>
 </tr>
