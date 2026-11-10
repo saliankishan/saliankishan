@@ -1,123 +1,268 @@
+
 <div align="center">
 
-<img src="assets/kishan-hero.svg" alt="Kishan D Salian — Aspiring Data Analyst | SQL, Python, Pandas" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:07152D,50:0047AB,100:2563EB&text=Kishan%20Salian&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=MCA%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=68&descSize=16" width="100%"/>
 
-<p>
-  <a href="https://www.linkedin.com/in/kishan-salian/"><img src="https://img.shields.io/badge/LinkedIn-Kishan%20Salian-701A3D?style=for-the-badge&logo=linkedin&logoColor=F8F0F3" alt="LinkedIn"/></a>
-  <a href="mailto:saliankishan727@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-451126?style=for-the-badge&logo=gmail&logoColor=F8F0F3" alt="Email"/></a>
-</p>
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=4D8DFF&center=true&vCenter=true&width=650&lines=Turning+data+into+meaningful+insights.;Building+solutions+with+Python+%26+SQL.;Exploring+Data+Analytics+%26+Engineering.)](https://git.io/typing-svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0047AB?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kishan-salian-145a9938b)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saliankishan)
+[![Email](https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saliankishan727@gmail.com)
 
 </div>
 
-## About Me
+---
 
-I'm an MCA student at **Manipal Institute of Technology (MIT), Manipal Academy of Higher Education (MAHE)**, with strong skills in **SQL, Python, data analysis and database systems**.
+## 01 / About Me
 
-I've built hands-on projects using **Python, Flask, SQLite, NLP and computer vision**, and I'm interested in turning raw data into **meaningful insights that support better decisions**.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🎓 MCA student at MIT, Manipal (expected 2028)
-- 📊 Aspiring Data Analyst with a strong interest in SQL
-- 🐍 Working with Python and Pandas
-- 💻 Background in software development and programming
-- 🔍 Interested in solving real-world problems using data
+### Hello, I'm Kishan.
+
+I'm an MCA student at **Manipal Institute of Technology (MIT), MAHE**.
+
+I enjoy working with data, exploring patterns and building practical applications that solve real-world problems.
+
+My current focus is on developing strong foundations in Data Analytics, Python, SQL and database technologies.
+
+- 🎓 MCA @ MIT, Manipal
+- 📊 Aspiring Data Analyst
+- 🐍 Python & Pandas
+- 🗄️ SQL & Database Management
+- 🔍 Interested in Predictive Analytics
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="https://github-readme-stats.vercel.app/api?username=saliankishan&show_icons=true&hide_border=true&bg_color=0B1220&title_color=4D8DFF&icon_color=4D8DFF&text_color=DCE7F8&rank_icon=github" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Education
+## 02 / Education
 
-| Program | Institution | Period |
-|:--|:--|:--|
-| **MCA** | Manipal Institute of Technology (MIT), Manipal | Expected 2028 |
-| **BCA** (CGPA 9.6/10) | Vijaya College, Mulki | Aug 2023 – Jun 2026 |
-
----
-
-## Projects
-
-| Project | Description | Tech | Code |
-|:--|:--|:--|:--|
-| **Air Canvas** | Real-time virtual drawing app controlled by hand gestures, with undo/clear, saved images and a gallery | Python, OpenCV, MediaPipe | [View](https://github.com/saliankishan/Air-Canvas) |
-| **College Helpdesk Chatbot** | NLP chatbot answering common college queries using TF-IDF and cosine similarity, with a Flask and SQLite backend | Python, Flask, NLTK, SQLite | [View](https://github.com/saliankishan/college-chatbot) |
-| **Weather Dashboard** | Web app showing current weather and 5-day forecasts from the OpenWeather API, with a responsive card layout | Python, Flask, SQLite, OpenWeather API | [View](https://github.com/saliankishan/Weather-Dashboard) |
-| **Wumpus World Game** | Interactive Wumpus World game | React, TypeScript, Vite | [View](https://github.com/saliankishan/wumpus-world-game) |
-| **Vijaya Food Fest** | Food fest and competition website | HTML | [View](https://github.com/saliankishan/Vijaya-Food-Fest) |
+| Programme | Institution | Duration |
+|:---|:---|:---|
+| MCA | MIT, MAHE, Manipal | 2026 – 2028 |
+| BCA | Vijaya College, Mulki | 2023 – 2026 |
 
 ---
 
-## Skills
+## 03 / Tech Stack
 
-**Data and analysis**
+### Data & Analytics
 
-![SQL](https://img.shields.io/badge/SQL-701A3D?style=for-the-badge&logo=postgresql&logoColor=F8F0F3)
-![Python](https://img.shields.io/badge/Python-701A3D?style=for-the-badge&logo=python&logoColor=F8F0F3)
-![Pandas](https://img.shields.io/badge/Pandas-701A3D?style=for-the-badge&logo=pandas&logoColor=F8F0F3)
-![Excel](https://img.shields.io/badge/Excel-701A3D?style=for-the-badge&logo=microsoftexcel&logoColor=F8F0F3)
-![NumPy](https://img.shields.io/badge/NumPy-701A3D?style=for-the-badge&logo=numpy&logoColor=F8F0F3)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-701A3D?style=for-the-badge&logoColor=F8F0F3)
-
-**Programming and web**
-
-![C++](https://img.shields.io/badge/C++-451126?style=for-the-badge&logo=cplusplus&logoColor=F8F0F3)
-![PHP](https://img.shields.io/badge/PHP-451126?style=for-the-badge&logo=php&logoColor=F8F0F3)
-![JavaScript](https://img.shields.io/badge/JavaScript-451126?style=for-the-badge&logo=javascript&logoColor=F8F0F3)
-![Flask](https://img.shields.io/badge/Flask-451126?style=for-the-badge&logo=flask&logoColor=F8F0F3)
-![HTML5](https://img.shields.io/badge/HTML5-451126?style=for-the-badge&logo=html5&logoColor=F8F0F3)
-![CSS3](https://img.shields.io/badge/CSS3-451126?style=for-the-badge&logo=css3&logoColor=F8F0F3)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-701A3D?style=for-the-badge&logo=mysql&logoColor=F8F0F3)
-![SQLite](https://img.shields.io/badge/SQLite-701A3D?style=for-the-badge&logo=sqlite&logoColor=F8F0F3)
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-701A3D?style=for-the-badge&logo=oracle&logoColor=F8F0F3)
-
-**Libraries and tools**
-
-![OpenCV](https://img.shields.io/badge/OpenCV-451126?style=for-the-badge&logo=opencv&logoColor=F8F0F3)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-451126?style=for-the-badge&logoColor=F8F0F3)
-![NLTK](https://img.shields.io/badge/NLTK-451126?style=for-the-badge&logoColor=F8F0F3)
-![Git](https://img.shields.io/badge/Git-451126?style=for-the-badge&logo=git&logoColor=F8F0F3)
-![GitHub](https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=F8F0F3)
-
----
-
-## Certifications
-
-- **Google Data Analytics Professional Certificate**, Google via Coursera ([verify](https://coursera.org/verify/professional-cert/ITJTDQDCOJ2D))
-- **Digital Marketing**, Adobe via Coursera ([verify](https://coursera.org/verify/GTZSI63EA9SF))
-- **AI Fundamentals**, IBM
-
-## Achievements
-
-- 🥇 **1st Prize**, Cyber Quest, NITTE
-- 🥈 **2nd Prize**, Debugging Competition, Mahaveer College, Moodbidri
-- 🤝 **NSS Volunteer**, 2 years
-
----
-
-## GitHub Activity
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/701A3D/saliankishan" alt="Kishan's GitHub contribution heatmap" width="100%"/>
+<p>
+<img src="https://img.shields.io/badge/Python-0047AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-1D4ED8?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-0047AB?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-<sub>Live contribution data from GitHub. If the image ever fails to load, your profile page still shows the same graph natively.</sub>
+### Programming & Web Development
+
+<p>
+<img src="https://img.shields.io/badge/C++-0047AB?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1D4ED8?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-0047AB?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-2563EB?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
+
+### Frameworks, Libraries & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Flask-0047AB?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-2563EB?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-1D4ED8?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-0047AB?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
-## Currently Learning
+## 04 / Featured Projects
 
-- Data analysis with Python and Pandas
-- Advanced SQL
-- Data visualization and Power BI
-- Exploratory data analysis
-- Statistics for data analysis
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Air Canvas
+
+Real-time virtual drawing application controlled through hand gestures.
+
+**Technologies**
+
+`Python` `OpenCV` `MediaPipe`
+
+[View Project →](https://github.com/saliankishan/Air-Canvas)
+
+</td>
+<td width="50%" valign="top">
+
+### College Helpdesk Chatbot
+
+An NLP-based chatbot that answers common college queries using text similarity.
+
+**Technologies**
+
+`Python` `Flask` `NLTK` `SQLite`
+
+[View Project →](https://github.com/saliankishan/college-chatbot)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Weather Dashboard
+
+Weather forecasting application with current conditions and five-day forecasts.
+
+**Technologies**
+
+`Python` `Flask` `SQLite` `API`
+
+[View Project →](https://github.com/saliankishan/Weather-Dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### Wumpus World Game
+
+An interactive implementation of the Wumpus World environment.
+
+**Technologies**
+
+`React` `TypeScript` `Vite`
+
+[View Project →](https://github.com/saliankishan/wumpus-world-game)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Vijaya Food Fest
+
+Website developed for a college food festival and competition.
+
+**Technologies**
+
+`HTML`
+
+[View Project →](https://github.com/saliankishan/Vijaya-Food-Fest)
+
+</td>
+<td width="50%" valign="top">
+
+### Research in Progress
+
+Retirement Fund Estimation Using Predictive Analytics.
+
+**Focus Areas**
+
+`Python` `Predictive Analytics` `Machine Learning`
+
+</td>
+</tr>
+</table>
 
 ---
 
-> **Turn data into insights, and insights into better decisions.**
+## 05 / Certifications
+
+- Google Data Analytics Professional Certificate — Google / Coursera
+- Digital Marketing — Adobe / Coursera
+- AI Fundamentals — IBM
+
+---
+
+## 06 / Achievements
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🥇
+
+**1st Prize**
+
+Cyber Quest
+
+NITTE
+
+</td>
+<td align="center" width="33%">
+
+### 🥈
+
+**2nd Prize**
+
+Debugging Competition
+
+Mahaveer College
+
+</td>
+<td align="center" width="33%">
+
+### 🤝
+
+**2 Years**
+
+NSS Volunteer
+
+Community Service
+
+</td>
+</tr>
+</table>
+
+---
+
+## 07 / GitHub Activity
 
 <div align="center">
 
-<img src="assets/kishan-footer.svg" alt="Learning. Building. Analyzing." width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saliankishan&layout=compact&hide_border=true&bg_color=0B1220&title_color=4D8DFF&text_color=DCE7F8" height="160"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=saliankishan&theme=transparent&hide_border=true&ring=2563EB&fire=4D8DFF&currStreakLabel=4D8DFF&sideLabels=4D8DFF&dates=94A3B8&currStreakNum=DCE7F8&sideNums=DCE7F8" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saliankishan&bg_color=0B1220&color=4D8DFF&line=2563EB&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 08 / Currently Learning
+
+- Advanced SQL and database optimization
+- Data analysis using Python and Pandas
+- Exploratory Data Analysis
+- Data Visualization and Power BI
+- Statistics and Predictive Analytics
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07152D,50:0047AB,100:2563EB&height=120&section=footer"/>
+
+### "Turning data into insights, one project at a time."
+
+**KISHAN SALIAN** · Built with curiosity and code.
 
 </div>
