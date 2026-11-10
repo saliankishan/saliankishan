@@ -3,7 +3,7 @@
 <img src="assets/kishan-hero.svg" width="100%" alt="Kishan D Salian — aspiring data analyst, MCA student at MIT Manipal"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/kishan-salian-145a9938b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C77B9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kishan-salian/"><img src="https://img.shields.io/badge/LinkedIn-Connect-C77B9B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:saliankishan727@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-451126?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/saliankishan"><img src="https://img.shields.io/badge/GitHub-Follow-24121B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
