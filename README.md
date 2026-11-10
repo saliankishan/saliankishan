@@ -14,16 +14,9 @@
 
 ---
 
-## About Me
+<img src="assets/title-about.svg" width="100%" alt="01 About — a little about me"/>
 
-Hi, I'm **Kishan** — an MCA student at Manipal Institute of Technology, MAHE.
-
-I'm interested in working with data, solving problems through code, and building useful applications. I primarily work with **Python, SQL and Pandas**, while also exploring web development and machine learning.
-
-- 🎓 Pursuing MCA at MIT, Manipal
-- 📊 Interested in Data Analytics and Predictive Analytics
-- 🛠️ Building projects that combine software development and data
-- 🎯 Long-term goal: grow into Data Engineering
+<img src="assets/about-intro.svg" width="100%" alt="About Kishan: MCA student at MIT Manipal, interested in data analytics, Python, SQL and predictive analytics. Includes portrait."/>
 
 ## Learning path
 
