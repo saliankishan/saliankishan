@@ -109,7 +109,6 @@ A college food-festival website project.
 - Writing better SQL queries and strengthening relational database concepts.
 - Using Python and Pandas for data cleaning, exploration and analysis.
 - Building foundations in statistics and predictive modelling.
-- Understanding databases, data pipelines and the principles of Data Engineering.
 
 ## GitHub activity
 
